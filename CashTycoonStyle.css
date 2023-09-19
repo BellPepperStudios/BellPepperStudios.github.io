@@ -1,1 +1,7 @@
-
+.ShopBlock {
+  background-color: grey;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  text-align: center;
+}
